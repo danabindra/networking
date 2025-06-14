@@ -12,6 +12,8 @@ https://academy.training.arista.com/
 
 https://github.com/p4lang/tutorials
 
+https://arxiv.org/pdf/1312.1719
+
 ### Github Repos...sure you can find many using some GPT or other model
 https://github.com/p4lang
 
