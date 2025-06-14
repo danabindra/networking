@@ -2,6 +2,10 @@
 
 Will clean spelling errors, formatting etc. Once I am  finished all terms
 
+
+
+p4 switch is different from a entrp switch,  its data plane isn't pre-defined it's set by a p4 program when the switch starts the switch doesn’t come with prior knowledge of  protocols (like BGP, OSPF tables). the control plane still talks to the data plane like usual, but the tables and objects it uses are now created by the p4 code not hardcoded. this makes p4 protocl independent but still able to define  different protocols and behavior
+
 - **architechture**  
   bunch of parts that can be programmed w/ p4 like parser, control blocks, externs
 
