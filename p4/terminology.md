@@ -1,4 +1,4 @@
-#Notes
+# Notes
 
 Will clean spelling errors, formatting etc. Once I am  finished all terms
 
