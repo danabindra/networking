@@ -66,7 +66,7 @@ docker compose restart prometheus
 
 ---
 
-## Future Enhancements
+## Future Enhancements (needs work)
 - DNS
 - export bmv2 stats via prometheus pushgateway
 - build grafana dashboards for p4  counters
@@ -75,7 +75,7 @@ docker compose restart prometheus
 
 ---
 
-## 📅 Timeline
+
 
 | Phase                   | Target Date |
 |------------------------|-------------|
@@ -87,7 +87,7 @@ docker compose restart prometheus
 
 ---
 
-## 🧠 Notes
+## Notes
 test connection with:
 ```bash curl http://x.x.x.x9100/metrics
 ```
